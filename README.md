@@ -7,8 +7,7 @@
 
                   conectate conmigo : https://www.linkedin.com/in/alexander-castillo-b23000230/
                   
-                  Languages and Tools:
-  css3 express git html5 javascript nodejs postgresql react redux webpack node
+                  Languages and Tools: css3 express git html5 javascript nodejs postgresql react redux webpack node
 
 <!--
 **Alexdrcastillo/Alexdrcastillo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
