@@ -5,12 +5,10 @@
                                     🤝 Trabajé para motoonline chile
                               puedes contactarme por: alexdrcastillo9@gmail.com
 
-
-                  conectate conmigo : 
-             https://linkedin.com/in/https://www.linkedin.com/in/alexander-castillo-b23000230/
+                  conectate conmigo : https://www.linkedin.com/in/alexander-castillo-b23000230/
                   
                   Languages and Tools:
-bootstrap chartjs css3 express figma git html5 javascript mysql nodejs postgresql react reactnative redux tailwind typescript webpack
+  css3 express git html5 javascript nodejs postgresql react redux webpack node
 
 <!--
 **Alexdrcastillo/Alexdrcastillo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
