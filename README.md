@@ -7,7 +7,7 @@
 
 
                   conectate conmigo : 
-                  https://www.linkedin.com/in/alexander-castillo-b23000230/
+             https://linkedin.com/in/https://www.linkedin.com/in/alexander-castillo-b23000230/
                   
                   Languages and Tools:
 bootstrap chartjs css3 express figma git html5 javascript mysql nodejs postgresql react reactnative redux tailwind typescript webpack
